@@ -92,6 +92,16 @@
 
 ---
 
+
+### 📊 My GitHub Stats ⭐
+
+<div align="center">
+  <img alt="Sushilkumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SushilkumarBarai&show_icons=true&theme=transparent" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilkumarBarai&layout=compact&langs_count=8" />
+</div>
+
+---
+
 ## 🎓 Education
 
 **Computer Engineering (2013 – 2017)**  
