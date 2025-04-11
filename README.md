@@ -14,33 +14,17 @@
 
 ## 💼 Professional Experience
 
-**🔹 Sr. Associate – AI/ML @ Synechron Technology** (Feb 2025 – Present)  
-- Lead GenAI R&D for NBFC/BFSI clients  
-- Built scalable ML/AI solutions using Azure, AWS Bedrock  
-- Developed voice technologies (ASR, TTS, NLP) for automation  
+- **Synechron Technology, Pune** — *Senior Associate (AI/ML/Data Science)*  
+  *February 2025 – Present*
 
-**🔹 Python Developer (Speech & AI) @ Ozonetel** (Dec 2022 – Feb 2025)  
-- Built asynchronous IVR bots with multilingual support  
-- Worked on real-time voice systems and customer analytics  
+- **Ozonetel Communication Pvt. Ltd, Hyderabad** — *Python Developer (Speech and AI)*  
+  *December 2022 – February 2025*
 
-**🔹 Data Scientist @ ICICI Securities** (Jul 2021 – Dec 2022)  
-- Designed ML models for marketing segmentation and behavior prediction  
-- Activated 35K+ inactive customers every 3 months via analytics  
+- **ICICI Securities, Navi Mumbai** — *Data Scientist (M-I)*  
+  *July 2021 – December 2022*
 
-**🔹 Software Engineer @ Azentio Software** (Sep 2018 – Jul 2021)  
-- Developed web/mobile data apps and regression-based predictive models  
-
----
-
-## 📊 Featured Projects
-
-### 1. 🔍 Customer Segmentation for Financial Products
-- Built ML-based customer segmentation engine for NBFC using Random Forest
-- Improved customer retention by **15%** and reduced ops cost by **35%**
-
-### 2. 🧠 AI Agent for SQL/CSV (Agentic Tool)
-- Created Streamlit-powered NLP interface for querying data
-- Empowered 1000+ employees, increased sales conversions by **33%**
+- **Azentio Software Pvt. Ltd, Navi Mumbai** — *Software Engineer*  
+  *September 2018 – July 2021*
 
 ---
 
@@ -76,4 +60,3 @@ Yadavrao Tasgaonkar Institute of Engineering & Technology
 ---
 
 _Thank you for visiting my profile! Feel free to explore my repositories and connect._
-
