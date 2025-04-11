@@ -2,7 +2,30 @@
 
 ### 🚀 Sr. Associate – AI/ML | Data Scientist | Python Developer | GenAI | NLP Enthusiast
 
-🔭 I’m a passionate Data Scientist and Python Developer with over **6.5 years** of experience building data-driven solutions and AI-powered systems. My work spans across developing real-time chatbots, IVR voice interfaces, agentic tools, and machine learning APIs for customer analytics and enterprise automation.
+
+### 🧠 About Me &nbsp;🚀👨‍💻📊🗣️
+
+**I am a Data Scientist and Experienced Python AI/ML Developer | 6.5 Years in Financial Data, NLP, LLMs, ETL, Agentic AI & End-to-End ML Solutions**
+
+🚀 Innovative and results-driven, I bring 6.5 years of experience delivering intelligent, automation-first solutions across financial services, NBFC platforms, and enterprise AI ecosystems.  
+🔍 I specialize in Python development, financial data analysis, pattern recognition, customer segmentation, and text processing using tools like OpenCV.
+
+🐍 Proficient in Python, PLSQL, and modern frameworks like TensorFlow 2, Flask, and FastAPI.  
+🔁 Strong in building scalable ETL pipelines, working with MongoDB, Firebase DB, and vector databases for RAG-based applications.
+
+🧠 Delivered full-lifecycle ML solutions using regression, clustering (K-Means, DBSCAN), decision trees, random forests, CNNs, and more — from data ingestion to model monitoring.
+
+🗣️ Hands-on with NLP, LLMs, and GenAI — building smart chatbots, voicebots, and IVRs using LangChain, ChatGPT, and integrated ML APIs.  
+🔊 Worked extensively on **voice streaming**, **real-time voice analytics**, and **bi-directional multilingual chatbots** to enhance CX at scale.
+
+🤖 Specialized in building agentic AI systems that can reason, plan, and execute tasks autonomously.
+
+🏦 Extensive NBFC domain experience — AI-powered credit scoring, customer profiling, and personalized financial product recommendations.
+
+💡 Passionate about real-time decision-making through AI/ML and designing scalable, impactful solutions that evolve with business needs.
+
+
+---
 
 📫 Reach me at:  
 📞 8286755226  
