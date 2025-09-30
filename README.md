@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sushilkumarbarai123456@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-8286755226-green?style=for-the-badge&logo=phone)](tel:8286755226)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=6.5%2B+Years+in+AI%2FML+%26+Data+Science;Building+Intelligent+Automation+Solutions;Expert+in+GenAI%2C+LLMs+%26+NLP;Transforming+Data+into+Business+Value)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=7%2B+Years+in+AI%2FML+%26+Data+Science;Building+Intelligent+Automation+Solutions;Expert+in+GenAI%2C+LLMs+%26+NLP;Transforming+Data+into+Business+Value)
 
 </div>
 
