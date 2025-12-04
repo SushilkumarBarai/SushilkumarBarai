@@ -19,17 +19,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Experienced AI/ML Engineer | 7.0 Years Driving Business Impact Through Intelligent Automation**
+# Experienced AI/ML Engineer | 7.0 Years Driving Business Impact Through Intelligent Automation
 
 I'm a results-driven Data Scientist and Python AI/ML Developer specializing in **financial services**, **NLP**, **LLMs**, **agentic AI**, and **end-to-end ML solutions**. With deep expertise in the NBFC and BFSI domains, I build scalable, production-ready systems that transform data into actionable business value.
 
-### 🎯 Core Expertise
+---
 
-- 🤖 **Generative AI & LLMs:** Building intelligent chatbots, voicebots, and conversational AI using LangChain, OpenAI GPT-4o, DeepSeek R1, and Ollama
-- 🗣️ **Speech & Voice Technologies:** Real-time ASR/TTS systems, IVR bots, voice streaming, and multilingual voice analytics
-- 📊 **ML & Data Science:** Customer segmentation, predictive modeling, time series forecasting, and behavioral analytics at scale
-- 🔄 **ETL & Data Engineering:** Scalable pipelines with MongoDB, Firebase, vector databases (FAISS, Pinecone), and cloud platforms
-- 🏦 **Domain Knowledge:** Credit scoring, customer profiling, financial product recommendations, and FX settlement automation
+## 🎯 Core Expertise
+
+- 🤖 **Generative AI & LLMs:** Building intelligent chatbots, voicebots, and conversational AI using LangChain, OpenAI GPT-4o, DeepSeek R1, and Ollama  
+- 🗣️ **Speech & Voice Technologies:** Real-time ASR/TTS systems, IVR bots, voice streaming, and multilingual voice analytics  
+- 📊 **ML & Data Science:** Customer segmentation, predictive modeling, time series forecasting, behavioral analytics, and financial market analysis  
+- 🔄 **ETL & Data Engineering:** Scalable pipelines with MongoDB, Firebase, vector databases (FAISS, Pinecone), and cloud platforms  
+- 🏦 **Domain Knowledge:** Credit scoring, customer profiling, financial product recommendations, FX settlement automation, and financial market insights  
+- 🔍 **Troubleshooting & Root Cause Analysis:** Identifying performance bottlenecks, debugging complex AI/ML pipelines, and providing actionable solutions  
+- ⚙️ **Optimization & Automation:** Streamlining workflows, reducing processing time, and enhancing model performance for production systems  
+
 
 <br clear="right"/>
 
