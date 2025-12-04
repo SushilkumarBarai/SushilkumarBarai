@@ -163,15 +163,22 @@ Developed a real-time trading copilot leveraging LLMs and market analytics to ge
 
 ## 📊 GitHub Stats
 
+<!-- GitHub contributions & streak stats -->
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SushilkumarBarai&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SushilkumarBarai&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
+<!-- Top languages -->
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilkumarBarai&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </div>
 
+<br>
+
+<!-- GitHub trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SushilkumarBarai&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
